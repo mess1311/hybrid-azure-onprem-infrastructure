@@ -1,0 +1,11 @@
+# Secrets: never commit real values
+config.env
+*.secret
+*.key
+*.pfx
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
